@@ -1,0 +1,34 @@
+﻿body {
+}
+body {
+}
+
+.home {
+    margin-bottom: 5rem;
+    margin-top: 2rem;
+}
+
+.banner {
+    margin-bottom: 1rem;
+}
+
+.img-banner {
+    max-width: 100%;
+    width: 1080px;
+    height: 300px;
+}
+.create{
+    margin: 2rem 0;
+}
+.short {
+    margin-bottom: 2rem;
+}
+
+.img-short {
+    width: 150px;
+    height: 150px;
+}
+
+.short-view {
+    margin-top: 0.5rem;
+}
